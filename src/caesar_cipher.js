@@ -14,5 +14,3 @@ const caesar = (str, num) => {
 };
 
 module.exports = caesar;
-
-console.log(caesar('Azerbaijan', 5));
