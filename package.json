@@ -1,0 +1,23 @@
+{
+  "name": "Testing-practice",
+  "version": "1.0.0",
+  "description": "Testing practice in Javascript using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstloyal/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jstloyal/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/jstloyal/Testing-practice#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0"
+  }
+}
